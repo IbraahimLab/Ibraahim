@@ -29,3 +29,4 @@ verify_*.py
 PUBLISHING_LOG.md
 RELEASE_GUIDE.md
 pre/
+docs/LANDING_PAGE_CONCEPTS.md
