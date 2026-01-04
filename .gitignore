@@ -24,3 +24,8 @@ verify_*.py
 
 # Environment variables (CRITICAL)
 .env
+
+# Documentation & Logs
+PUBLISHING_LOG.md
+RELEASE_GUIDE.md
+pre/
